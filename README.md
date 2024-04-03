@@ -8,3 +8,4 @@
 ## My major projects
 1. AI tools TBD
 2. My own social network TBD
+🐱‍👤
