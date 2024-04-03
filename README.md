@@ -1,18 +1,24 @@
-# wotech
+# WoTech
 
 # My Skills
-- Java TBD
-- Python TBD
-- Github
+- Java TBD ☕
+- Python TBD 🐍
+- Github 
 
 ## My major projects
 1. AI tools TBD
 2. My own social network TBD
-🐱‍👤
+   
+## More code
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 ## My fav part of code
-'''java int temperature = 14;
-
+```Java 
+int temperature = 14;
       if (temperature < 5) {
         System.out.println("Heating on!");
       }
@@ -26,4 +32,4 @@
         System.out.println("Cooling on");
       }
     }
-    '''
+```
